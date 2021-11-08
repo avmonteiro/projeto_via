@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'brstring'
+gem 'capybara'
+gem 'cucumber'
+gem 'pry'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'webdrivers'
